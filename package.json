@@ -28,9 +28,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Urigo/mongo-rxjs-observable.git"
+    "url": "git@github.com:dgroch/meteor-rxjs.git"
   },
-  "author": "Angular2-Meteor (https://github.com/Urigo/angular2-meteor)",
+  "author": "Dan Groch",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Urigo/mongo-rxjs-observable/issues"
